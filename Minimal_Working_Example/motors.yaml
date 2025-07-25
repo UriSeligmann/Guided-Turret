@@ -1,0 +1,11 @@
+stepper_motors:
+  motor_a:
+    pulse_pin: 27
+    dir_pin:   17
+    delay_us:  60
+  motor_b:
+    pulse_pin: 23
+    dir_pin:   24
+    delay_us:  60
+defaults:
+  chunk_size: 100

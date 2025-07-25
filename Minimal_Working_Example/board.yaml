@@ -1,0 +1,6 @@
+mode: BCM
+pins:
+  27: out          # pulse A
+  17: out          # dir   A
+  23: out          # pulse B
+  24: out          # dir   B
